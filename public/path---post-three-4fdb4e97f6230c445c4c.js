@@ -1,0 +1,2 @@
+webpackJsonp([0x6731bafd5a98],{341:function(t,e){t.exports={data:{markdownRemark:{html:"<p>Welcome to our websites</p>",frontmatter:{path:"/post-three",title:"Welcome",author:"Gareth",date:"13/04/2018"}}},pathContext:{}}}});
+//# sourceMappingURL=path---post-three-4fdb4e97f6230c445c4c.js.map

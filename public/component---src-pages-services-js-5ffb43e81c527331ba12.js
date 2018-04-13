@@ -1,0 +1,2 @@
+webpackJsonp([0xf56877dfa5f4],{204:function(e,t,l){"use strict";function u(e){return e&&e.__esModule?e:{default:e}}t.__esModule=!0;var n=l(2),f=u(n),r=function(){return f.default.createElement("div",null,f.default.createElement("h1",null,"Services"),f.default.createElement("p",null,"We offer great services"))};t.default=r,e.exports=t.default}});
+//# sourceMappingURL=component---src-pages-services-js-5ffb43e81c527331ba12.js.map
